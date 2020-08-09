@@ -20,3 +20,7 @@ To forecast Daily Sales in dollars by store for a horizon of 1 to 48 days. The c
 ### Wikipedia Web Traffic Forecasting
 
 To forecast daily Wikipedia page visits for a horizon of 12 to 42 days. The contestants had access to 32 months of data for the page visits, as well as metadata for the Wikipedia pages.
+
+### M5 Forecasting - Accuracy
+
+To forecast daily sales for the next 28 days. The data, covers stores in three US states (California, Texas and Wisconsin) and invludes item level, department, product categories and store details. In addition, it has explanatory variables such as price, promotions, day of the week and special events.
