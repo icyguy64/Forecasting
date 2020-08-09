@@ -13,10 +13,6 @@ To forecast Daily Restaurant Visits by restaurant for a horizon of 1 to 39 days.
 
 To forecasts of Weekly Sales in dollars by department and store for a horizon of 1 to 39 weeks. The contestants had access to 33 months of data for the 45 stores and 81 departments, as well as metadata for the stores, holiday information, promotion indicators, weekly temperatures, fuel prices, consumer price index (CPI), and unemployment rate.
 
-### Walmart Recruiting II: Sales in Stormy Weather
-
-To accurately predict the sales of 111 potentially weather-sensitive products (like umbrellas, bread, and milk) around the time of major weather events at 45 of their retail locations.
-
 ### Rossmann Store Sales
 
 To forecast Daily Sales in dollars by store for a horizon of 1 to 48 days. The contestants had access to 31 months of data for the 1115 stores, as well as metadata for the stores, promotion indicators, holiday information, weather information, and Google Trend statistics
